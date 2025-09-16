@@ -1,6 +1,6 @@
 # Telco Customer Churn Analysis & Interactive Dashboard - GEN AI
 
-* **Live Dashboard:** **[telco-churn-md.streamlit.app](https://telco-churn-md.streamlit.app/)**
+* **Live Dashboard:** **[telco-churn-md.streamlit.app](https://telco-churn-md-v1.streamlit.app/)**
 
 ### 1. The Problem Statement
 
