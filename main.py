@@ -8,7 +8,7 @@ import gemini
 
 
 
-st.set_page_config(layout="wide")
+st.set_page_config(layout="wide", page_title="Customer Churn Analysis Dashboard", page_icon="📊")
 
 
 st.title('Customer Churn Analysis Dashboard')
