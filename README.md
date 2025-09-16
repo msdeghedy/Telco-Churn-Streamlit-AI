@@ -32,4 +32,4 @@ Based on these insights, I have two data-backed recommendations:
 ### 5. Data Source
 
 * The dataset used is the **"Telco Customer Churn"** dataset from IBM, available on Kaggle: [Link to Dataset](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset)
-# Telco-Churn-Streamlit-AI
+
